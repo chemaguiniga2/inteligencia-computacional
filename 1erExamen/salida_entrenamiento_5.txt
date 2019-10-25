@@ -1,0 +1,19 @@
+Entrenamiento con K = 5
+
+Archivo no: 0
+Accuracy: 0.9047999290213823
+F1: 0.8870645195242606
+
+Archivo no: 1
+Accuracy: 0.903114186851211
+F1: 0.8837308347529813
+
+Archivo no: 2
+Accuracy: 0.905332268654068
+F1: 0.8865255769435287
+
+Archivo no: 3
+Accuracy: 0.9054209919261822
+F1: 0.8881896370883157
+
+Archivo no: 4
